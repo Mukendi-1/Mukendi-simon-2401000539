@@ -1,0 +1,27 @@
+JAne website
+</html>
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Jane instruction</title>
+</head>
+<body>
+    <span style="color:blue">Jane</span> is a <span style="color:green">web developer</span> and <span style="color:red">programmer</span>.
+    <p>Welcome to the jane's page</p>
+    <div style="background-color:lightblue">
+        <h2>About Jane</h2>
+        <p>Jane is a web developer with a passion for creating beautiful and functional websites.</p>
+        <p>She has experience in HTML, CSS, and JavaScript.</p>
+        <ul>
+            <li>HTML</li>
+            <li>CSS</li>
+            <li>JavaScript</li>
+        </ul>
+        <a href="https://www.example.com">Visit Jane's website</a>
+        <a href="https://www.example.com" target="_blank">Visit Jane's website in a new tab</a>
+        <a href="https://www.example.com" download>Download Jane's resume</a>
+        <strong>Jane's Skills</strong>
+        <em>Jane is proficient in:</em>
+        
+</body>
+</html>
